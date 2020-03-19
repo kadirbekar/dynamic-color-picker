@@ -6,9 +6,9 @@ What we need to have for such a result;
 
 # Packages;
   
- 1 - We will use flutter_material_color_picker package to have such a color palette<br>
- 2 - We will use provider package when a color picked from color dialog to listen to the changes<br>
- 3 - We will use shared_preferences package to save when a color picked with that way when you close you application color value will be saved into your device<br>
+ 1 - We will use **flutter_material_color_picker** package to have such a color palette<br>
+ 2 - We will use **provider** package when a color picked from color dialog to listen to the changes<br>
+ 3 - We will use **shared_preferences** package to save when a color picked with that way when you close you application color value will be saved into your device<br>
 
 # don't forget to import those packages into pubspec.yaml file.
 
