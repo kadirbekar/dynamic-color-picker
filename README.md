@@ -12,5 +12,5 @@ What we need to have for such a result;
 
 # don't forget to import those packages into pubspec.yaml file.
 
-# I've left necessary comments in the files to understand how it works
+# I've left necessary comments in the files to make you understand how it works
 
